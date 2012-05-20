@@ -1,0 +1,3 @@
+[submodule "Assets/Behaviors/GravityBodies"]
+	path = Assets/Behaviors/GravityBodies
+	url = git@github.com:krackhaus/gravity_bodies.git
