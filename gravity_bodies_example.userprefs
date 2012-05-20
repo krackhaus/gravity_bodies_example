@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Behaviors/GravityBodies/PlayerGravityBody.cs">
+    <Files>
+      <File FileName="Assets/Controllers/WasdController.cs" Line="8" Column="12" />
+      <File FileName="Assets/Behaviors/GravityBodies/GravityAttractor.cs" Line="25" Column="21" />
+      <File FileName="Assets/Behaviors/GravityBodies/GravityBody.cs" Line="59" Column="20" />
+      <File FileName="Assets/Behaviors/GravityBodies/PlayerGravityBody.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
